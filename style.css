@@ -1,1 +1,71 @@
+*{
+    background-color: hwb(218 0% 42%);
+}
+
+.address {
+    color: white;
+    font-size: 35px;
+    text-align: center;
+}
+
+.address1 {
+    color: white;
+    text-align: right;
+    display: inline-block;
+    width: 50%;
+}
+
+.address2 {
+    color: white;
+    text-align: left;
+    display: inline-block;
+    width: 50%;
+}
+
+.full {
+    color: white;
+}
+
+.address2_name {
+    display: inline-block;
+    text-align: left;
+    width: 50%;
+}
+
+.minecraft {
+    display: inline-block;
+    text-align: right;
+    width: 50%;
+}
+
+.address2_level {
+    display: inline-block;
+    text-align: left;
+    width: 50%;
+}
+
+.roblox {
+    display: inline-block;
+    text-align: right;
+    width: 50%;
+}
+
+.address2_achievement {
+    display: inline-block;
+    text-align: left;
+    width: 50%;
+}
+
+.pubg {
+    display: inline-block;
+    text-align: right;
+    width: 50%;
+}
+
+.fortnite {
+    display: inline-block;
+    text-align: right;
+    width: 100%;
+}
+
 
